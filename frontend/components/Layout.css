@@ -1,0 +1,16 @@
+.drop-zone {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.drop-zone.dragging {
+    border-color: #0070f3;
+    background-color: #f0f8ff;
+}
+.code-preview {
+    margin-top: 20px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+}
